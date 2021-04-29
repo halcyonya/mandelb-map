@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/halcyonya.github.io\/mandelb-map\/hello-world"
+                 "value":"https:\/\/halcyonya.github.io\/mandelb-map\/hello-world.txt"
                 }],
          "type":"tilelayer",
          "visible":true,
